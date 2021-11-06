@@ -44,6 +44,24 @@ displays a list of available parameters and exits properly.
 • Make the color range shift.
 
 
+## Requirements
+
+### Minilibx
+Install its dependencies:
+
+```
+sudo apt-get install gcc make xorg libxext-dev libbsd-dev
+```
+Clone minilibx repo:
+```
+$ git clone https://github.com/42Paris/minilibx-linux.git
+```
+Run the config tool:
+```
+./configure
+```
+For more details, check miniLibx repository [`Readme`](https://github.com/42Paris/minilibx-linux).
+
 ## Usage
 
 To compile the program, run:
