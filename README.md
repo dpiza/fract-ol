@@ -2,7 +2,7 @@
 
 ![42-Badge](https://img.shields.io/badge/%C3%89cole-42SP-blue)![C-Badge](https://img.shields.io/badge/Language-C-lightgrey)[![42Unlicense](https://img.shields.io/badge/License-42Unlicense-yellowgreen)](https://github.com/gcamerli/42unlicense)
 
-<img src="imgs/Widelbrot.gif"/>
+<img src="https://github.com/dpiza/resources/blob/master/imgs/Widelbrot.gif?raw=true"/>
 
 
 ## Description
